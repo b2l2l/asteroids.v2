@@ -10,5 +10,4 @@ maybe change the asteroids into Space Monsters?
 For live version of this code 
  www.B2l2l.com/asteroids.v2
  have a look here too www.b2l2l.com/UI
-
-
+Project Page on Github http://b2l2l.github.io/asteroids.v2/
